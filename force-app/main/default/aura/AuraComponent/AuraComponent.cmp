@@ -1,4 +1,5 @@
 <aura:component>
     Hello World!
     Hello DevHub!!
+    Welcome to CI-CD!!
 </aura:component>
